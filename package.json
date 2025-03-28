@@ -3,9 +3,26 @@
     "start": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^4.18.1"
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "express": "^4.21.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "name": "webscraper-express",
+  "version": "1.0.0",
+  "description": "Welcome to your shiny new Codespace running Express! We've got everything fired up and running for you to explore Express.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntokozokubheka/webscraper-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntokozokubheka/webscraper-express/issues"
+  },
+  "homepage": "https://github.com/ntokozokubheka/webscraper-express#readme"
 }
